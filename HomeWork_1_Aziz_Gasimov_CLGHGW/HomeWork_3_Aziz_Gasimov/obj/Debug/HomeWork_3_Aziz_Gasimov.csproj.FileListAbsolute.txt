@@ -1,0 +1,20 @@
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\bin\Debug\HomeWork_3_Aziz_Gasimov.exe.config
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\bin\Debug\HomeWork_3_Aziz_Gasimov.exe
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\bin\Debug\HomeWork_3_Aziz_Gasimov.pdb
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.csprojAssemblyReference.cache
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.Form1.resources
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.Properties.Resources.resources
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.csproj.GenerateResource.cache
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.csproj.CoreCompileInputs.cache
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.exe
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.pdb
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\bin\Debug\HomeWork_3_Aziz_Gasimov.exe.config
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\bin\Debug\HomeWork_3_Aziz_Gasimov.exe
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\bin\Debug\HomeWork_3_Aziz_Gasimov.pdb
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.csprojAssemblyReference.cache
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.Form1.resources
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.Properties.Resources.resources
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.csproj.GenerateResource.cache
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.csproj.CoreCompileInputs.cache
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.exe
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_3_Aziz_Gasimov\obj\Debug\HomeWork_3_Aziz_Gasimov.pdb

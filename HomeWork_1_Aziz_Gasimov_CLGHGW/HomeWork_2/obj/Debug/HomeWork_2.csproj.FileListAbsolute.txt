@@ -1,0 +1,20 @@
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\bin\Debug\HomeWork_2.exe.config
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\bin\Debug\HomeWork_2.exe
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\bin\Debug\HomeWork_2.pdb
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.Form1.resources
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.Properties.Resources.resources
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.csproj.GenerateResource.cache
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.csproj.CoreCompileInputs.cache
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.exe
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.pdb
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.csprojAssemblyReference.cache
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\bin\Debug\HomeWork_2.exe.config
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\bin\Debug\HomeWork_2.exe
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\bin\Debug\HomeWork_2.pdb
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.csprojAssemblyReference.cache
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.Form1.resources
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.Properties.Resources.resources
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.csproj.GenerateResource.cache
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.csproj.CoreCompileInputs.cache
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.exe
+C:\Users\azizg\Desktop\home work for git\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_2\obj\Debug\HomeWork_2.pdb

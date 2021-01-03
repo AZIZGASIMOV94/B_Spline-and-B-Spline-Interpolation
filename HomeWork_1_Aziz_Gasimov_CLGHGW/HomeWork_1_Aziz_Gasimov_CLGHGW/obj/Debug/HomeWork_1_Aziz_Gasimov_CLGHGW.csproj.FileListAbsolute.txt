@@ -1,0 +1,10 @@
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_1_Aziz_Gasimov_CLGHGW\bin\Debug\HomeWork_1_Aziz_Gasimov_CLGHGW.exe.config
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_1_Aziz_Gasimov_CLGHGW\bin\Debug\HomeWork_1_Aziz_Gasimov_CLGHGW.exe
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_1_Aziz_Gasimov_CLGHGW\bin\Debug\HomeWork_1_Aziz_Gasimov_CLGHGW.pdb
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_1_Aziz_Gasimov_CLGHGW\obj\Debug\HomeWork_1_Aziz_Gasimov_CLGHGW.csprojAssemblyReference.cache
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_1_Aziz_Gasimov_CLGHGW\obj\Debug\HomeWork_1_Aziz_Gasimov_CLGHGW.Form1.resources
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_1_Aziz_Gasimov_CLGHGW\obj\Debug\HomeWork_1_Aziz_Gasimov_CLGHGW.Properties.Resources.resources
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_1_Aziz_Gasimov_CLGHGW\obj\Debug\HomeWork_1_Aziz_Gasimov_CLGHGW.csproj.GenerateResource.cache
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_1_Aziz_Gasimov_CLGHGW\obj\Debug\HomeWork_1_Aziz_Gasimov_CLGHGW.csproj.CoreCompileInputs.cache
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_1_Aziz_Gasimov_CLGHGW\obj\Debug\HomeWork_1_Aziz_Gasimov_CLGHGW.exe
+C:\Users\azizg\source\repos\HomeWork_1_Aziz_Gasimov_CLGHGW\HomeWork_1_Aziz_Gasimov_CLGHGW\obj\Debug\HomeWork_1_Aziz_Gasimov_CLGHGW.pdb
